@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,b as r}from"./app.0527f255.js";const _={},c=r("p",null,"This is perfTest.",-1),o=[c];function n(a,l){return t(),s("div",null,o)}var i=e(_,[["render",n],["__file","perf-test.html.vue"]]);export{i as default};
